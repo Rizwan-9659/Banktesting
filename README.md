@@ -1,1 +1,1 @@
-Bank Managemnt and unit Testing
+Bank Management and unit Testing
